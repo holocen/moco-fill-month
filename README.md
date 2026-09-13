@@ -11,6 +11,9 @@ No decompiling, no scripts on your machine, no third-party servers.
 
 ---
 
+<img width="915" height="584" alt="SnipKit" src="./SnipKit-20260913-115338.png" />
+
+
 ## ✨ Features
 
 - **One month, one click** — a full month of entries, posted in a single bulk
