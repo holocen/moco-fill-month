@@ -122,9 +122,6 @@ on the next deploy. The API is the supported, durable way to do this.
 **Does it work for my company?**
 Yes — it runs on any `*.mocoapp.com` instance.
 
-**Where is the old CLI script?**
-Removed. The userscript does everything the CLI did, with a friendlier UI.
-
 ---
 
 ## 🔧 Troubleshooting
