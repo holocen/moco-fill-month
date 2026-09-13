@@ -117,11 +117,6 @@ with the newest file from this repo → **Ctrl+S** → reload mocoapp.com.
 It uses MoCo's documented public API with your own personal key. The tool is
 **not** made or endorsed by MoCo — it's a personal productivity helper.
 
-**Why not modify the app directly?**
-MoCo is a hosted service: the tracking logic runs on their servers and the app
-is updated constantly. Anything "decompiled" or patched locally would be wiped
-on the next deploy. The API is the supported, durable way to do this.
-
 **Does it work for my company?**
 Yes — it runs on any `*.mocoapp.com` instance.
 
